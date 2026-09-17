@@ -30,7 +30,7 @@ A listagem e a contagem incluem produtos ativos e inativos. A exclusão remove o
 | H2 / Flyway | Gerenciada pelo Spring Boot | Banco em memória e migration |
 | JUnit 5, Mockito e MockMvc | Via Spring Boot Starter Test | Testes unitários, MVC e integração |
 
-As dependências estão declaradas no [pom.xml](pom.xml). Identificação Maven: `br.com.rauel:product-catalog-api:0.0.1-SNAPSHOT`. A versão informada no OpenAPI é `1.0.0`.
+As dependências estão declaradas no [pom.xml](pom.xml). Identificação Maven: `br.com.rauel:product-catalog-api:0.0.1-SNAPSHOT`.
 
 ## Pré-requisitos
 
